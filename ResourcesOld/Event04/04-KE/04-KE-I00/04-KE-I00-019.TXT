@@ -1,0 +1,45 @@
+﻿FileName = {
+04-KE-I00-019
+}
+
+bgsimage = {
+-800.00, -36.50, 0.30, 0, 0, -1, 0, 0, 10, Y:\CrossDays\BG\葵町郊外\aoichokogaiDefo08_yuu.png
+}
+
+charimage[0] = {
+-3200.00, -836.50, 1.10, 0, 0, -1, 0, 0, 0, Y:\SCHOOLDAYSHQ\BG\電車\train_defo03_yuu.png
+}
+
+charimage[1] = {
+-194.72, -138.25, 0.65, 1, 0, 5, 0, 0, 0, Y:\SCHOOLDAYSHQ\CHARA\makoto\HQ\seihuku\20\HQmak10Aa19.0.png
+}
+
+Screen = {
+6
+}
+
+SameTime = {
+-1
+}
+
+CutIn = {
+0
+}
+
+Revision = {
+0
+}
+
+Gauss = {
+10
+}
+
+Project = {
+0
+}
+
+Creator = {
+takeuhci
+}
+
+
